@@ -1,0 +1,14 @@
+Liste: liste di valori mutabili
+Tuple: liste di valori immutabili
+Set: liste ordinate in ordine ASCII, esenti da valori duplicati
+Dizionari: lista di coppie chiave-valore
+
+Il print in una funzione viene stampato solo se si trova prima del return, o se il return non c'è
+
+Il meotodo sum() funziona solo con variabili definite prima. Ad esempio sum(1,2) non va bene. ????????????????????????????????
+
+Il metodo split() senza nessun parametro al suo interno utilizza gli spazi come delimitatore predefinito
+
+Per rendere una variabile locale di una funziona globale ci avvaliamo della parola chiave global (Ad esempio: global nome_variabile_locale)
+
+dir(nomeIstanzaOggetto) -> Stampa tutti i metodi dell'oggetto
