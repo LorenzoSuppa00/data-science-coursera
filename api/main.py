@@ -9,3 +9,5 @@ type(df)
 df.head()
 
 df.mean()
+
+# Da fare molte cose
